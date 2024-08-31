@@ -13,4 +13,4 @@ def generate_random_password(length=12):
 # Generate and print a random password
 random_password = generate_random_password()
 print("Generated Password:", random_password)
-dhfkdkd
+hello
